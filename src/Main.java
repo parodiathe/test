@@ -20,4 +20,9 @@ public class Main {
     public void Sadasdsads(){
         System.out.println("dasdsadasd");
     }
+
+    public void fucking feature(){
+        System.out.println("fdsfdsfdsfdsf");
+    }
+
 }
