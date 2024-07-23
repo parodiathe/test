@@ -17,4 +17,7 @@ public class Main {
     public void Sas(){
         System.out.println("fefe");
     }
+    public void Sadasdsads(){
+        System.out.println("dasdsadasd");
+    }
 }
